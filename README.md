@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, My Name Ahmed Wael</h1>
-<h3 align="center">A passionate fronteProfessional full stack developer with 3+ years of experience in web development. Common software and web development tools include HTML, CSS, JavaScript, Git Hub, Bootstrap and Angular UI/UX</h3>
+<h3 align="center">Experienced penetration tester with a strong focus on identifying and exploiting vulnerabilities in web applications, networks, and systems. Proficient in using industry-standard tools like Nmap, Burp Suite, Metasploit, and theHarvester for reconnaissance, scanning, and exploitation. Skilled in testing for OWASP Top 10 vulnerabilities such as XSS, SQL Injection, and CSRF, with experience in both manual testing and automation. Adept at gathering critical information during the reconnaissance phase, performing vulnerability assessments, and generating detailed security reports with actionable recommendations. Strong understanding of secure coding practices, network protocols, and hands-on experience with Kali Linux for penetration testing.</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
-
-- 🌱 I’m currently learning **React.js and laravel**
-
-- 📫 How to reach me **ahmedwae528@gmail.com**
+- 📫 How to reach me **secnothing528@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
